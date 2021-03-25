@@ -1,3 +1,3 @@
 <?php
-include_once(ecommerce.html);
+include_once(index.html);
 ?>
